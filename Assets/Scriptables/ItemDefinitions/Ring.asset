@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79c9800a73e8a0740a7392c6044f3080, type: 3}
+  m_Name: Ring
+  m_EditorClassIdentifier: 
+  _name: Ring
+  sprite: {fileID: 21300000, guid: 92b51c95f24babc43b69522f503bc32c, type: 3}
